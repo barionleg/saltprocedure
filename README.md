@@ -24,7 +24,7 @@ This is a salt procedure used for systematic salt analysis for Practical Chemist
 * TeXworks for Ubuntu (Compiling the markup)
 * Synaptic Package Manager (Package installation)
 ## Authors
-**Edilebert** [EDXE47](https://github.com/EDXE47)
+**Edilebert** - [EDXE47](https://github.com/EDXE47)
 
 Follow on [Google Plus](https://plus.google.com/+EDXE47)
 ## License
