@@ -20,9 +20,13 @@ This is a salt procedure used for systematic salt analysis for Practical Chemist
 \setlength{\parindent}{4em}
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 ```
+## Built with
+* TeXworks for Ubuntu (Compiling the markup)
+* Synaptic Package Manager (Package installation)
 ## Authors
-**Edilebert R**, *Initial work*, [EDXE47](https://github.com/EDXE47)
-*alias* AEMBER SILVA TIDIEL
+**Edilebert** [EDXE47](https://github.com/EDXE47)
+
+Follow on [Google Plus](https://plus.google.com/+EDXE47)
 ## License
 The project is open source and allowed to be distributed freely
 ## Acknowledgements
