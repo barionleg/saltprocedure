@@ -1,5 +1,5 @@
 # Systematic Salt Procedure
-This is a salt procedure used for systematic salt analysis for Practical Chemistry, XI and XII grade CBSE students. The PDF and the LaTeX source code can be downloaded from this page.
+This is a salt-analysis procedure template (INCOMPLETE) used for systematic salt analysis in Practical Chemistry labs, XI and XII grade CBSE students. The PDF and the LaTeX source code can be downloaded from this page.
 ## Preamble of Document
 ```
 \documentclass[10pt, a4paper]{article}
