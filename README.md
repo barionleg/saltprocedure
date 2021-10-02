@@ -23,12 +23,3 @@ This is a salt-analysis procedure template (INCOMPLETE) used for systematic salt
 ## Built with
 * TeXworks for Ubuntu (Compiling the markup)
 * Synaptic Package Manager (Package installation)
-## Authors
-**Edilebert** - [EDXE47](https://github.com/EDXE47)
-
-Follow on [Google Plus](https://plus.google.com/+EDXE47)
-## License
-The project is open source and allowed to be distributed freely
-## Acknowledgements
-* Prasanth Balasubramaniam
-* Jeash R
